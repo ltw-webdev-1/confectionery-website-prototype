@@ -15,7 +15,7 @@ download: 'https://assets.learn-the-web.algonquindesign.ca/web-dev-1/confectione
   - **Beau’s Bonbons**
   - **Coco’s Chocolatiers**
 - *It should have real text content*—**that you have to write yourself.**
-- Greys can be used for everything if you’d like. If you choose to use colours make sure they’re nicely designed and consistent.
+- Greys can be used for everything if you’d prefer. If you choose to use colours make sure they’re nicely designed and consistent.
 - Placeholder images are good—there’s a bunch of different sizes and shapes in the “images” folder.
 - *The website should obviously be fully responsive: working on screensizes from `320px` all the way to `~2500px`.*
 - There’s also a bunch of images that you can download and use in the site as extra—but the layout is the most important thing. If the images are there but the site isn’t responsive you’ll lose grades.
