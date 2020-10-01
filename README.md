@@ -34,6 +34,7 @@ There should be a significant example of everything we’ve learned this term in
 
 ## Markbot’s expectations
 
+- using basic html format like navbar,sidebar,header etc
 - `header`, `header nav`, `header h1`, `header li`, `header nav a`
 - `main`, `h2`, `div`, `section`, `img.img-flex`, `footer`
 - A Google Font
@@ -42,6 +43,7 @@ There should be a significant example of everything we’ve learned this term in
 - Standard text sizes & line heights: `100%/1.3`, `110%/1.4`, `120%/1.5`, `130%/1.5`
 - `margin`, `padding`, `position: absolute`, `position: relative`, `display: block`, `display: inline-block`, `display: flex`
 - A `background-color` or `color` hover state for the navigation links
+- using different selectors as active,after,before,default
 
 ---
 
