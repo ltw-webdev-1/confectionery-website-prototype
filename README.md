@@ -2,7 +2,7 @@
 summary: 'Create a wireframe/prototype for a confectionery website—showing what you learned this term.'
 time: '10 hours'
 deliverables: '1 HTML file, 1 CSS file, images'
-download: 'https://assets.learn-the-web.algonquindesign.ca/web-dev-1/confectionery-website-prototype-download.zip'
+download: 'https://assets.learntheweb.courses/web-dev-1/confectionery-website-prototype-download.zip'
 ---
 
 # Confectionery website prototype
